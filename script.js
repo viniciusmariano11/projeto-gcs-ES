@@ -1,1 +1,1 @@
-console.log("Projeto iniciado com sucesso");
+alert("Sistema carregado com sucesso");
